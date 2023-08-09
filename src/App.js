@@ -10,7 +10,7 @@ import UserProvider from "./store/UserProvider";
 
 const router = createBrowserRouter([
   {
-    path: "/landing-page",
+    path: "/",
     element: <LandingPage />,
   },
   {
